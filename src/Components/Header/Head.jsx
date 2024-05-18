@@ -12,9 +12,13 @@ const Head = () => {
             <label htmlFor="">cricketnepal@gmail.com</label>
           </div>
           <div className="right row RText">
-            <label>Theme FAQ's</label>
-            <label>Need Helps</label>
-            <span>:flag-us</span>
+            <label>FAQ's</label>
+            <label>Helps</label>
+            <span className="social-icons">
+              <i class="fa-brands fa-facebook-f"></i>
+              <i class="fa-brands fa-instagram"></i>
+              <i class="fa-brands fa-twitter"></i>
+            </span>
           </div>
         </div>
       </section>
