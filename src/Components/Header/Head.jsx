@@ -14,11 +14,7 @@ const Head = () => {
           <div className="right row RText">
             <label>FAQ's</label>
             <label>Helps</label>
-            <span className="social-icons">
-              <i class="fa-brands fa-facebook-f"></i>
-              <i class="fa-brands fa-instagram"></i>
-              <i class="fa-brands fa-twitter"></i>
-            </span>
+            <label>Matches</label>
           </div>
         </div>
       </section>
