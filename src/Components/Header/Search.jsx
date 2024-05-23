@@ -9,12 +9,14 @@ const Search = () => {
           <div className="logo width">
             <img src={logo} alt="" />
           </div>
-
           <div className="search-box f_flex">
-            <div className="fa fa-search">
-              <input type="text" placeholder="Search.........." />
-              <span>All category</span>
-            </div>
+            <i className="fa fa-search"></i>
+            <input type="text" placeholder="Search.........." />
+            <span>All category</span>
+          </div>
+          <div className="icon f_flex width">
+            <p style={{ marginRight: "15px" }}>LOGIN</p>{" "}
+            <i className="fa fa-user icon_circle" />
           </div>
         </div>
       </section>

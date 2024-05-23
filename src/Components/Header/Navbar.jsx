@@ -25,19 +25,19 @@ const Navbar = () => {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/pages">LiveScores</Link>
+                <Link to="/scores">LiveScores</Link>
               </li>
               <li>
-                <Link to="/user">Teams</Link>
+                <Link to="/teams">Teams</Link>
               </li>
               <li>
-                <Link to="/user">News</Link>
+                <Link to="/news">News</Link>
               </li>
               <li>
-                <Link to="/user">Features</Link>
+                <Link to="/features">Features</Link>
               </li>
               <li>
-                <Link to="/user">Videos</Link>
+                <Link to="/videos">Videos</Link>
               </li>
               <li>
                 <Link to="/user">News</Link>
