@@ -50,7 +50,7 @@ const Navbar = () => {
               {MobileMenu ? (
                 <i className="fas fa-times close home-bth"></i>
               ) : (
-                <i className="fas fa-bars open"></i>
+                <i class="fa-solid fa-xmark"></i>
               )}
             </button>
           </div>
